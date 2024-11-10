@@ -24,6 +24,10 @@ Performing image classification to classify concretes with or without cracks.
 ![vscode_loss_graph_run2](https://github.com/user-attachments/assets/6f78c22a-6b6e-44a1-a548-a77d977ef130)
 ### Accuracy Graph
 ![vscode_accuracy_graph_run2](https://github.com/user-attachments/assets/e67e5d9c-25ef-4c6b-93fc-3b2904b425e6)
+
+### Prediction
+![prediction (vscode) 2](https://github.com/user-attachments/assets/ece5b0fa-9e6b-4d17-833b-8c50098bfe95)
+
 ## Discussion
 
 ## Credits
