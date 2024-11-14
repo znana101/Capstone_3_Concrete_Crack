@@ -28,7 +28,6 @@ Performing image classification to classify concretes with or without cracks.
 ### Prediction
 ![prediction (vscode) 2](https://github.com/user-attachments/assets/ece5b0fa-9e6b-4d17-833b-8c50098bfe95)
 
-## Discussion
 
 ## Credits
 GitHub - https://data.mendeley.com/datasets/5y9wdsg2zt/2
