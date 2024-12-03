@@ -24,10 +24,14 @@ Performing image classification to classify concretes with or without cracks.
 ![vscode_loss_graph_run2](https://github.com/user-attachments/assets/6f78c22a-6b6e-44a1-a548-a77d977ef130)
 ### Accuracy Graph
 ![vscode_accuracy_graph_run2](https://github.com/user-attachments/assets/e67e5d9c-25ef-4c6b-93fc-3b2904b425e6)
-
 ### Prediction
 ![prediction (vscode) 2](https://github.com/user-attachments/assets/ece5b0fa-9e6b-4d17-833b-8c50098bfe95)
+## Discussion
+1. The data preprocessing involved splitting the dataset to improve model generalization.
+2. In stage 1, the training loss and accuracy obtained is 0.0056 and 99.8% respectively.
+3. After running the model for stage 2, the training loss decreased to 0.0029 while the accuracy increased to 99.9%.  
 
+Conclusion: The model is able to predict the concrete crack as shown in prediction.  
 
 ## Credits
 GitHub - https://data.mendeley.com/datasets/5y9wdsg2zt/2
